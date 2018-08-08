@@ -16,3 +16,14 @@ export function monetize (value) {
     .replace(/(\d)(?=(\d{3})+(?:\.\d+)?$)/g, "$1,")
 }
 ```
+```js
+/**
+ * Convert a number to a currency format without ,00
+ * @param {string} value 52000
+ * @returns 5,200
+ */
+export function formatAUD (value) {
+  return "$" + new Intl.NumberFormat("en-AU", { maximumFractionDigits: 0 }).format(value)
+}
+
+```
