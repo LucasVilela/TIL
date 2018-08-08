@@ -3,8 +3,9 @@
 
 A collection of small snippets of technology that I learn everyday. 
 
-So far 0 and counting.
 
+
+So far 9 
 ------
 
 Categories 
@@ -13,7 +14,7 @@ Categories
  * [CSS](#CSS)
 
 
- # Javascript
+ # Javascript (8)
 
  * [Custom Console log](Javascript/custom-console-log.md)
  * [Working with Date()](Javascript/date-manipulation.md)
@@ -24,6 +25,7 @@ Categories
  * [Object literal Assignment](Javascript/object-literal-assignment.md)
  * [Changing css using JS](Javascript/js-change-css.md)
 
-# CSS 
+
+# CSS (1)
 
  * [Css variables](CSS/css-variables.md)
