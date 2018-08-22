@@ -23,9 +23,10 @@ Categories
  * [Helpful helper to currency formating](Javascript/monetize.md)
  * [Object literal Assignment](Javascript/object-literal-assignment.md)
  * [Changing css using JS](Javascript/js-change-css.md)
+ * [Generating a random string](Javascript/random-string.md)
 
 
-# Node (1)
+# Node (4)
 
 * [Creating a Module](node/creating-module.md)
 * [Starting a HTTP server in NODE](node/http-server.md)
