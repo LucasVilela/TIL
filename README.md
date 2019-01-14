@@ -24,6 +24,7 @@ Categories
  * [Object literal Assignment](Javascript/object-literal-assignment.md)
  * [Changing css using JS](Javascript/js-change-css.md)
  * [Generating a random string](Javascript/random-string.md)
+ * [Looping in React](Javascript/loop-react.md)
 
 
 # Node (4)
