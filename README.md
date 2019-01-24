@@ -38,3 +38,7 @@ Categories
 # CSS (1)
 
  * [Css variables](CSS/css-variables.md)
+
+ # Rails (1)
+
+ * [Database commands](Rails/database.md)
