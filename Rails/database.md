@@ -49,4 +49,14 @@ u.add_role_with_hash(Role::RESEARCHER)
 
 where `Role::RESEARCHER` is a short for `"RESEARCHER"`
 
-ccccccieckvvbhglhrlrvgtkctdincihclekndrbvede
+
+
+## Change all passwords in the Users db 
+
+
+```ruby
+
+User.first.update(password: "Test12345"); 
+User.update_all(encrypted_password: User.first.encrypted_password, opentok_session_id: nil);
+
+```
