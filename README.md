@@ -42,3 +42,7 @@ Categories
  # Rails (1)
 
  * [Database commands](Rails/database.md)
+
+ # Mac (1)
+
+ * [Encript Zip](Mac/encrypt.md)
