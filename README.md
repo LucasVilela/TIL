@@ -25,6 +25,7 @@ Categories
  * [Changing css using JS](Javascript/js-change-css.md)
  * [Generating a random string](Javascript/random-string.md)
  * [Looping in React](Javascript/loop-react.md)
+ * [Js Prompt](Javascript/loop-react.md)
 
 
 # Node (4)
